@@ -3,3 +3,5 @@ def co(n):
     print(a)
 
 co(100)
+
+ss
